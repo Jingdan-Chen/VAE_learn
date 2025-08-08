@@ -4,6 +4,8 @@ A comprehensive tutorial on Variational Autoencoders (VAE) and Conditional Varia
 
 An extension of https://medium.com/@rekalantar/variational-auto-encoder-vae-pytorch-tutorial-dce2d2fe0f5f 
 
+Notion: https://www.notion.so/VAE-24803aeee401802a8af0c329860773e4?source=copy_link
+
 ## Overview
 
 This repository contains implementations and tutorials for:
