@@ -15,8 +15,6 @@ This repository contains implementations and tutorials for:
 - `VAE.ipynb` - Complete tutorial and implementation of Variational Autoencoders
 - `CVAE.ipynb` - Tutorial and implementation of Conditional Variational Autoencoders  
 - `vae.py` - Standalone Python implementation of the VAE model class
-- `work.ipynb` - Additional experimental notebook
-- `work2.ipynb` - Additional experimental notebook
 
 ## Features
 
